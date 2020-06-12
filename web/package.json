@@ -9,6 +9,7 @@
     "@types/jest": "^24.0.0",
     "@types/node": "^12.0.0",
     "axios": "^0.19.2",
+    "classnames": "^2.2.6",
     "leaflet": "^1.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -16,6 +17,7 @@
     "react-leaflet": "^2.7.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "react-toastify": "^6.0.5",
     "typescript": "~3.7.2"
   },
   "scripts": {
@@ -40,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "@types/classnames": "^2.2.10",
     "@types/react": "^16.9.36",
     "@types/react-dom": "^16.9.8",
     "@types/react-leaflet": "^2.5.1",
